@@ -5,5 +5,10 @@ git commit -m "Adding some Hello World."
 git remote add origin https://github.com/johnlop8/Online-Brain-Intensive-MIT2017.git
 git push origin master
 
+git add .
+git commit -m "What i did."
+git push origin master
+
 git status
 git checkout -b v2.0 master
+git push origin v2.0
