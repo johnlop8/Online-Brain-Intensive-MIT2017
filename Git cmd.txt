@@ -11,4 +11,6 @@ git push origin master
 
 git status
 git checkout -b v2.0 master
+git add .
+git commit -m "What i did. v2.0"
 git push origin v2.0
